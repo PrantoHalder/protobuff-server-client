@@ -1,0 +1,13 @@
+{
+  "details": {
+    "methodFqn": "Hellowrold.SayHello"
+  },
+  "requests": [
+    {
+      "location": "SayHello-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc",
+  "importStreamId": "33543498-e5e1-4ddb-b1e9-4383a355d56a"
+}
